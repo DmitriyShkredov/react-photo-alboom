@@ -1,12 +1,14 @@
-## React photo alboom
+## React photo album
 
-#### `Demo:` https://dmitriyshkredov.github.io/react-photo-alboom/
+#### `Demo:` https://dmitriyshkredov.github.io/react-photo-album/
 
 #### `Telegram:` [https://t.me/tipichnyj_web_razrabotchik](https://t.me/tipichnyj_web_razrabotchik)
 
+#### `YouTube:` [Фотоальбом с идеальным расположением картинок в React JS](https://youtube.com/shorts/aIb8-BMUBM4)
+
 ---
 
-#### `git clone https://github.com/DmitriyShkredov/react-photo-alboom`
+#### `git clone https://github.com/DmitriyShkredov/react-photo-album`
 
 #### `npm install`
 
